@@ -1,0 +1,5 @@
+userinterface.ManufacturerRole.ManufacturerWorkAreaJPanel$4
+userinterface.ManufacturerRole.ManufacturerWorkAreaJPanel
+userinterface.ManufacturerRole.ManufacturerWorkAreaJPanel$1
+userinterface.ManufacturerRole.ManufacturerWorkAreaJPanel$3
+userinterface.ManufacturerRole.ManufacturerWorkAreaJPanel$2

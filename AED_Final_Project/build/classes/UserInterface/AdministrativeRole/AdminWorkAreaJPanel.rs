@@ -1,0 +1,4 @@
+userinterface.AdministrativeRole.AdminWorkAreaJPanel
+userinterface.AdministrativeRole.AdminWorkAreaJPanel$3
+userinterface.AdministrativeRole.AdminWorkAreaJPanel$1
+userinterface.AdministrativeRole.AdminWorkAreaJPanel$2

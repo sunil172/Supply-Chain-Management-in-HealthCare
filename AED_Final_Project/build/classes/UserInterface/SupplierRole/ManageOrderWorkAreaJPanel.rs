@@ -1,0 +1,5 @@
+userinterface.SupplierRole.ManageOrderWorkAreaJPanel
+userinterface.SupplierRole.ManageOrderWorkAreaJPanel$2
+userinterface.SupplierRole.ManageOrderWorkAreaJPanel$1
+userinterface.SupplierRole.ManageOrderWorkAreaJPanel$4
+userinterface.SupplierRole.ManageOrderWorkAreaJPanel$3
