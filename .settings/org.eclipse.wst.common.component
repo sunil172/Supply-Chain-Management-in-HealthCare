@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="open-lmis-master">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/authentication/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/authentication/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/core/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/core/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/db/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/demographics/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/demographics/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/distribution/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/distribution/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/email/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/email/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/equipment/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/equipment/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/export/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/export/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/help/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/help/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/openlmis-web/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/openlmis-web/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/report/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/report/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/reporting/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/reporting/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/requisition/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/requisition/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/rest-api/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/rest-api/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/shipment/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/shipment/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/sms/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/sms/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/stock-management/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/stock-management/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/upload/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/upload/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/vaccine/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/modules/vaccine/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/test-modules/functional-tests/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/test-modules/functional-tests/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/test-modules/test-core/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/test-modules/webservice-test/src/test/java"/>
+        <property name="context-root" value="open-lmis-master"/>
+        <property name="java-output-path" value="/open-lmis-master/bin"/>
+    </wb-module>
+</project-modules>
